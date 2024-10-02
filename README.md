@@ -1,4 +1,4 @@
-# Trilha Completa para Iniciantes em Programação com Gustavo Guanabara
+# Trilha Completa para Iniciantes em Programação (Cursos Gustavo Guanabara)
 
 Esta é uma trilha de conhecimentos essenciais para quem deseja iniciar na programação, utilizando os cursos gratuitos do **Gustavo Guanabara (Curso em Vídeo)**. Aprenda **Python** e **Git** simultaneamente para aplicar boas práticas de controle de versão desde o começo!
 
