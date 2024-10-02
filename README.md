@@ -35,7 +35,6 @@ Esta é uma trilha de conhecimentos essenciais para quem deseja iniciar na progr
 
 ## Dicas para iniciantes:
 - **Pratique sempre:** A programação é aprendida praticando. Tente criar pequenos projetos pessoais enquanto segue os cursos.
-- **Participe de comunidades:** Interagir com outras pessoas que também estão aprendendo pode acelerar o seu progresso.
-- **Desafios de código:** Experimente resolver problemas em sites como [HackerRank](https://www.hackerrank.com/) ou [CodeWars](https://www.codewars.com/) para melhorar suas habilidades.
+- **Participe de comunidades:** Interagir com outras pessoas que também estão aprendendo pode acelerar o seu progresso, bem como te ajudar em pontos onde você se encontra travado.
 
 Compartilhe essa trilha com seus amigos e siga o aprendizado de programação com uma ótima base! 🚀
